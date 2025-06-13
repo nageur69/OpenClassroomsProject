@@ -2,4 +2,5 @@ Ajout d'un deuxieme fichier et modification avant commit
 Modification
 Modification avant add
 Modification apres add et avant commit
+Modification du fichier
 Modification
