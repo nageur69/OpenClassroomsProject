@@ -1,1 +1,3 @@
 Ajout d'un deuxieme fichier et modification avant commit
+Modification
+Modification avant add
